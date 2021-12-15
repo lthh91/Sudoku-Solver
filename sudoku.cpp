@@ -3,9 +3,9 @@
 #include <fstream>
 #include <tuple>
 
-#define empty 0
-#define N 9
-#define none -1
+const int empty = 0;
+const int N = 9;
+const int none = -1;
 
 using namespace std;
 
